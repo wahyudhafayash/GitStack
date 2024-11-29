@@ -36,7 +36,8 @@
     "**/*.tsx",
     "**/*.cjs",
     "**/*.js",
-    ".next/types/**/*.ts"
+    ".next/types/**/*.ts",
+    "src/app/sign-in/[[...sign-in]]/page.tsxs"
   ],
   "exclude": ["node_modules"]
 }
